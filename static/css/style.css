@@ -4,10 +4,13 @@
 
 .flashes h4 {
     line-height: 2;
-    color: #fafafa;
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
-body {
-    background-color: black;
+.btn-small {
+    margin: 5px;
+}
+
+.collapsible-header .col strong {
+    margin: 5px;
+    line-height: 42px;
 }
